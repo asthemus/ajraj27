@@ -6,7 +6,7 @@
  <br/>
  <br/>
  
- Hi, I'm Anuj Raj, a developer 🚀 from India, Currently working as a Software Engineer [@Alteryx](https://www.alteryx.com/).
+ Hi, I'm Anuj Raj, a developer 🚀 from India, Currently working as a Software Engineer [@LinkedIn](https://www.linkedin.com/).
  
  Besides developing stuff, I enjoy listening music 🎸 and discussing cricket 🏏.
  
@@ -15,7 +15,8 @@
  
  ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp;Software Engineer [@Alteryx](https://www.alteryx.com/) [July 2021 - Present].
+- 💡 &nbsp;Software Engineer [@Linkedin](https://www.linkedin.com/) [Nov 2025 - Present].
+- 💡 &nbsp;Software Engineer [@Alteryx](https://www.alteryx.com/) [July 2021 - Oct 2025].
 - 💡 &nbsp;Software Engineering Intern [@Trifacta](https://www.trifacta.com/) [Jan 2021 - June 2021].
 - 🎓 &nbsp;Graduated in Information Technology from [IIIT Allahabad](https://www.iiita.ac.in/) [2017 - 2021].
 - 🌱 &nbsp;Learning System Design.
